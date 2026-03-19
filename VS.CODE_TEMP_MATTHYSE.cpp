@@ -9,7 +9,7 @@ int main() {
 	int TEMP1, TEMP2, TEMP3;
 	int diff;
 
-	cout << "Enter the 1st temperature ";
+	cout << "Enter the 1st temperature ";// enter temp1
 	cin >> TEMP1;
 	cout << "Enter the 2nd temperature ";
 	cin >> TEMP2;
