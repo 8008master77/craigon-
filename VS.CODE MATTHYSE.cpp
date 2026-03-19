@@ -28,7 +28,7 @@ void decimalToBinary() {
 	int decimal;
 	string binary = "";
 
-	cout << "Enter a decimal number: ";
+	cout << "Enter a decimal number: ";// prompt user to enter decimal number 
 	cin >> decimal;
 
 	if (decimal == 0) {
