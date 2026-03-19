@@ -5,7 +5,7 @@
 #include <cmath>
 using namespace std;
 
-void binaryToDecimal() {
+void binaryToDecimal() { //convertion to decimal
 	// Binary strings to Decimal numbers
 	string binary;
 	int decimal = 0;
