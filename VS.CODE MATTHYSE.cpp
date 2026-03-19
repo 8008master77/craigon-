@@ -11,7 +11,7 @@ void binaryToDecimal() { //convertion to decimal
 	int decimal = 0;
 	int power = 0;
 
-	cout << "Enter a binary number: ";
+	cout << "Enter a binary number: ";// prompt user for number 
 	cin >> binary;
 
 	int length = binary.length();
