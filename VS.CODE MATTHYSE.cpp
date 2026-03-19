@@ -49,7 +49,7 @@ void decimalToBinary() {
 int main() {
 	int choice;
 
-	// Display menu
+	// Display menu//display meneu 
 	cout << "Menu:" << endl;
 	cout << "1. Binary to Decimal" << endl;
 	cout << "2. Decimal to Binary" << endl;
